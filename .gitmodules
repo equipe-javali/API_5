@@ -1,0 +1,9 @@
+[submodule "API_5_BACK"]
+	path = API_5_BACK
+	url = https://github.com/equipe-javali/API_5_BACK.git
+[submodule "API_5_FRONT"]
+	path = API_5_FRONT
+	url = https://github.com/equipe-javali/API_5_FRONT.git
+[submodule "API_5_BD"]
+	path = API_5_BD
+	url = https://github.com/equipe-javali/API_5_BD.git
