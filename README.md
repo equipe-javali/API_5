@@ -40,36 +40,36 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint.
 <span id='backlog'>
 
 ## :clipboard: Requisitos Funcionais
-📌 RF-1 
+:pushpin: RF-1 Cadastro de Agentes de IA Personalizados: Permitir o cadastro de agentes de IA com conteúdos personalizados (ex.: um agente para responder dúvidas sobre um sistema de RH, outro para um ERP, etc.)
 
-📌 RF-2 
-📌 RF-3 
+:pushpin: RF-2 Interação com Agentes de IA via Chat: Implementar um sistema de chat, onde os usuários possam interagir com os agentes para
+esclarecer dúvidas.
 
-📌 RF-4 
+:pushpin: RF-3 Controle de Acesso a Agentes de IA: Criar um sistema de permissões, onde o administrador possa definir quais agentes cada
+usuário pode acessar.
 
-📌 RF-5 
+:pushpin: RF-4 Armazenamento do Histórico de Interações com Agentes de IA: Armazenar o histórico de interações entre usuários e agentes em um banco de dados na
+nuvem.
 
-📌 RF-6 
+:pushpin: RF-5 Dashboard Administrativo para Gerenciamento de Agentes e Estatísticas: Desenvolver um dashboard administrativo para gerenciar os agentes, permissões e
+visualizar estatísticas de uso.
 
-📌 RF-7 
 
 → [Voltar ao topo](#topo)
 
-## :clipboard: Requisitos NÃO Funcionais
-:pushpin: 
+## :clipboard: Requisitos Não Funcionais
+:pushpin: RNF-1 Desenvolvimento do Aplicativo Móvel: Utilizar ReactNative ou Flutter para o desenvolvimento do aplicativo móvel.
 
-:pushpin: 
+:pushpin: RNF-2 Persistência de Dados no Banco de Dados: Implementar a persistência de dados em um banco de dados compatível (MySQL,
+MongoDB, Oracle, etc.).
 
-:pushpin: 
+:pushpin: RNF-3 Otimização do Tempo de Resposta nas Interações com Agentes de IA: Assegurar um tempo de resposta adequado para as interações no chat.
 
-:pushpin: 
-
-:pushpin: 
+:pushpin: RNF-4 Documentação da API: Criar uma documentação técnica com instruções de instalação, uso e estrutura da API.
 
 ##  Épicos
 
 ![Epics]()
-
 
 ## Backlog total
 
