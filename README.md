@@ -69,7 +69,7 @@ MongoDB, Oracle, etc.).
 
 ##  Épicos
 
-![Epics]()
+![Epics](https://github.com/user-attachments/assets/2f566aa8-d5ea-4fa1-8b54-c5d7ce94bf22)
 
 ## Backlog total
 
