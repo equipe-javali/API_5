@@ -15,6 +15,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#sprints">Sprints</a> |
     <a href="#backlog">Backlog total</a> |
     <a href="#tecnologias">Tecnologias</a> |
+    <a href="#arquitetura">Arquitetura</a> |
     <a href="#equipe">Equipe</a> 
 </p>
 
@@ -78,8 +79,6 @@ MongoDB, Oracle, etc.).
 
 → [Voltar ao topo](#topo)
 
-
-
 <span id='tecnologias'>
 
 ## 💻 Tecnologias
@@ -93,6 +92,16 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Swagger](https://swagger.io): Documentação das rotas no back-end
 
 → [Voltar ao topo](#topo)
+
+<span id="arquitetura">
+    
+## Arquitetura do sistema
+
+![API 5DSM - Arquitetura](https://github.com/user-attachments/assets/3ab97b7f-eb75-4c32-808a-68e4e7c27fad)
+
+→ [Voltar ao topo](#topo)
+
+
 <span id="equipe">
 
 ## :busts_in_silhouette: Equipe
