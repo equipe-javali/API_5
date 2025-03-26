@@ -70,12 +70,12 @@ MongoDB, Oracle, etc.).
 
 ##  Épicos
 
-![Epics](https://github.com/user-attachments/assets/2f566aa8-d5ea-4fa1-8b54-c5d7ce94bf22)
+![Epics![Epics](https://github.com/user-attachments/assets/feb1fcf2-31d7-4492-9fbf-d52c01be1c54)
 
 ## Backlog total
-
-![Backlog (1)]()
-![Backlog (2)]()
+![Backlog Total 1](https://github.com/user-attachments/assets/cb2e2a6e-d912-4b87-af35-36fecd81fdc2)
+![Backlog Total 2](https://github.com/user-attachments/assets/2db11338-ece9-41fe-96b3-5e190e6dfb24)
+![Backlog Total 3](https://github.com/user-attachments/assets/4ad970fe-1b5e-40d3-bf87-6e410f3f41f6)
 
 → [Voltar ao topo](#topo)
 
