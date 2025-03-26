@@ -30,13 +30,21 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :clipboard: Épicos
 
-![Requisitos](docs/requisitos.png)
-:pushpin: RF-      
-:pushpin: RF- 
+![Requisitos](https://github.com/user-attachments/assets/ffa784aa-b6ab-4966-8a62-c3f65f867c50)
+      
+:pushpin: RF-1 Cadastro de Agentes de IA Personalizados: Permitir o cadastro de agentes de IA com conteúdos personalizados (ex.: um agente para responder dúvidas sobre um sistema de RH, outro para um ERP, etc.)
+
+:pushpin: RF-2 Interação com Agentes de IA via Chat: Implementar um sistema de chat, onde os usuários possam interagir com os agentes para esclarecer dúvidas.
+
+:pushpin: RF-3 Controle de Acesso a Agentes de IA: Criar um sistema de permissões, onde o administrador possa definir quais agentes cada usuário pode acessar.
+
+:pushpin: RNF-2 Persistência de Dados no Banco de Dados: Implementar a persistência de dados em um banco de dados compatível (MySQL, MongoDB, Oracle, etc.).
+
+:pushpin: RNF-4 Documentação da API: Criar uma documentação técnica com instruções de instalação, uso e estrutura da API.
 
 ## Sprint Backlog
 
-![Backlog](docs/backlog.png)
+![Backlog](https://github.com/user-attachments/assets/5384fbb1-7b99-48f6-9d5a-c18d4c5cc12b)
 
 → [Voltar ao topo](#topo)
 
