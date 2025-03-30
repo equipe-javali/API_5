@@ -22,7 +22,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :dart: Objetivo
 <p align='justify'>
-    Para esta sprint, a equipe se compromete a entregar .
+    Para esta sprint, a equipe se compromete a entregar um chatbot capaz de interagir com os usuários, classificando perguntas e fornecendo respostas apropriadas.
 </p>
 
 
