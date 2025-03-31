@@ -76,6 +76,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## MVP da Sprint
 
+![MVP](https://github.com/user-attachments/assets/9d920faf-eff1-4280-bfb1-abb94e900ddd)
 
 
 → [Voltar ao topo](#topo)
