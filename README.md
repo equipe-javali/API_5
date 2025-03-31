@@ -32,8 +32,8 @@ O objetivo do projeto é desenvolver uma plataforma que possibilite a criação 
 Na tabela abaixo é possível visualizar os resultados de cada Sprint. 
 | Sprint |   Início    |    Entrega  |               Status                     |                    Relatório                    |
 |:------:|:-----------:|:-----------:|:----------------------------------------------:|:-----------------------------------------------:|
-|   01   | 10/03/2025  | 30/03/2025  | :hourglass_flowing_sand: Em andamento         | [Clique aqui](https://github.com/equipe-javali/API_5/tree/sprint1) |
-|   02   | 07/04/2025  | 27/04/2025  | :soon: Não iniciada                           | [Clique aqui](https://github.com/equipe-javali/API_5/tree/sprint2)  |
+|   01   | 10/03/2025  | 30/03/2025  | :white_check_mark: Concluído        | [Clique aqui](https://github.com/equipe-javali/API_5/tree/sprint1) |
+|   02   | 07/04/2025  | 27/04/2025  | :hourglass_flowing_sand: Em andamento                          | [Clique aqui](https://github.com/equipe-javali/API_5/tree/sprint2)  |
 |   03   | 05/05/2025  | 25/05/2025  | :soon: Não iniciada                           | [Clique aqui](https://github.com/equipe-javali/API_5/tree/sprint3)  |
 
 → [Voltar ao topo](#topo)
