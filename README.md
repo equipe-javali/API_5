@@ -22,7 +22,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :dart: Objetivo
 <p align='justify'>
-    Para esta sprint, a entregar um chatbot com maior capacidade de interação. Além disso, será implementada para os administradores a funcionalidade de atualizar e excluir contextos, agentes e usuários, bem como a visualização do histórico de conversas com os agentes de IA.
+    Para esta sprint, a equipe se compromete a entregar um chatbot com maior capacidade de interação. Além disso, será implementada para os administradores a funcionalidade de atualizar e excluir contextos, agentes e usuários, bem como a visualização do histórico de conversas com os agentes de IA.
 </p>
 
 <span id='backlog'>
