@@ -80,6 +80,9 @@ visualizar estatísticas de uso.
 
 <span id="mvp">
 
+![MVP](https://github.com/user-attachments/assets/016e9ed1-0dc6-4d7f-a23a-118041d4dde9)
+
+
 ## Burndow da Sprint
 
 
