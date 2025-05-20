@@ -16,6 +16,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#backlog">Backlog total</a> |
     <a href="#tecnologias">Tecnologias</a> |
     <a href="#arquitetura">Arquitetura</a> |
+    <a href="#instrucoes">Instruções para Executar o Projeto</a> |
     <a href="#equipe">Equipe</a> 
 </p>
 
@@ -101,6 +102,52 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 
 → [Voltar ao topo](#topo)
 
+<span id="instrucoes">
+
+## :gear: Instruções para Executar o Projeto
+
+### Banco de Dados
+
+1. Instalar o PostgreSQL: [Download PostgreSQL](https://www.postgresql.org/download/)
+   (Selecionar as Command line tools nas opções de instalação)
+2. Criar um banco de dados vazio: `create database omni_BD;`
+
+### Backend 
+
+1. Para rodar a aplicação, é necessário instalar o Python: [Download Python](https://www.python.org/downloads/)
+2. Para clonar o repositório do backend, digite no prompt de comando: ```git clone https://github.com/equipe-javali/API_5_BACK```
+3. Para entrar no repositório do backend, digite no prompt de comando: ```cd API_5_BACK```
+4. Para criar o ambiente virtual, digite no prompt de comando: ```py -m venv env```
+5. Para ativar o ambiente virtual, digite no prompt de comando: ```env\Scripts\activate```
+6. Para instalar os requisitos do sistema, digite no prompt de comando: ```pip install -r requirements.txt```
+7. Para configurar as variáveis do database, abra o arquivo: ```api\settings.py``` e configure DATABASES: 
+```
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',  # Use PostgreSQL
+        'NAME': 'omni_BD',                          # Nome do database do banco
+        'USER': 'root',                             # Nome do usuário do banco
+        'PASSWORD': 'root',                         # Senha do usuário do banco
+        'HOST': 'localhost',                        # Host do banco
+        'PORT': '5432',                             # Port do banco
+        'OPTIONS': {
+            'sslmode': 'require',                   # Modo do SSL
+        }
+    }
+}
+```
+8. Para executar a aplicação, digite no prompt de comando: ```python manage.py runserver```
+> OBS: Caso queira executar a aplicação no emulador, digite no prompt de comando: ```python manage.py runserver 0.0.0.0:8000```
+
+### Frontend
+1. Para clonar o repositório do frontend, digite no prompt de comando: `git clone https://github.com/equipe-javali/API_5_FRONT`
+> OBS: A aplicação deverá ser clonada na raiz do sistema. Exemplo: C:\
+2. Para entrar no repositório do backend, digite no prompt de comando: ```cd API_5_FRONT\API_5```
+3. Para instalar os requisitos do sistema, digite no prompt de comando: ```npm install```
+4. Para executar a aplicação, digite no prompt de comando: ```npm start```
+> OBS: O backend deverá estar rodando para a aplicação funcionar.
+
+→ [Voltar ao topo](#topo)
 
 <span id="equipe">
 
