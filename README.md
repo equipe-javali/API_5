@@ -136,7 +136,14 @@ DATABASES = {
     }
 }
 ```
-8. Para executar a aplicação, digite no prompt de comando: ```python manage.py runserver```
+8. Para a função de envio de e-email é necessário criar um arquivo ```.env``` com as seguintes variáveis:
+```
+SMTP_SERVER="smtp.email.com."        # Servidor SMTP
+SMTP_PORT=000                        # Porta no qual o servidor smtp enviará o email
+SMTP_USERNAME="exemplo@email.com"    # Endereço de email que será usado para enviar emails
+SMTP_PASSWORD="abcd efgh ijkl mnop"  # Senha de aplicação do email
+```  
+9. Para executar a aplicação, digite no prompt de comando: ```python manage.py runserver```
 > OBS: Caso queira executar a aplicação no emulador, digite no prompt de comando: ```python manage.py runserver 0.0.0.0:8000```
 
 ### Frontend
